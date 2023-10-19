@@ -1,3 +1,17 @@
+#
+# .gitignore
+#
+
+## BACKUP & TEMPORARY FILES ##
+
+*~
+*.bak
+*.swp
+*.tmp
+
+
+## PROJECT-SPECIFIC FILES ##
+
 *.ms13 (Security copy)
 *.ms13 (Security copy)
 *.ms13 (Security copy)
@@ -7,3 +21,5 @@ Board_Design/MQPvGIT.ms13 (Security copy)
 *.ewprj (Security copy)
 *.LIB
 *.asv
+
+MATLAB/_temp.txt
